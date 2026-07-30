@@ -1,0 +1,417 @@
+{
+  "How do I fix a graphics card driver issue?": {
+    "documents_cosine": [
+      {
+        "score": 0.4897431,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi.  I am having some interesting problems with my Boca graphics card, which \nis based on the Cirrus Logic chipset (I am"
+      },
+      {
+        "score": 0.42262632,
+        "category": "comp.os.ms-windows.misc",
+        "text": "HHHHEEEELLLLPPPP Meeeeeee!\n\n\tI installed a 256 color svga driver for my windows last week.   \nThis driver was downloaded"
+      },
+      {
+        "score": 0.41888657,
+        "category": "comp.os.ms-windows.misc",
+        "text": "I have the same card, TVGA-8900c. When I checked, the latest driver for\nwindows 3.1 is dated Aug. 92 in garbo.uwasa.fi i"
+      },
+      {
+        "score": 0.4141606,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) see"
+      },
+      {
+        "score": 0.41001144,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of"
+      }
+    ],
+    "documents_euclid": [
+      {
+        "score": 1.0102048,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi.  I am having some interesting problems with my Boca graphics card, which \nis based on the Cirrus Logic chipset (I am"
+      },
+      {
+        "score": 1.0745916,
+        "category": "comp.os.ms-windows.misc",
+        "text": "HHHHEEEELLLLPPPP Meeeeeee!\n\n\tI installed a 256 color svga driver for my windows last week.   \nThis driver was downloaded"
+      },
+      {
+        "score": 1.0780662,
+        "category": "comp.os.ms-windows.misc",
+        "text": "I have the same card, TVGA-8900c. When I checked, the latest driver for\nwindows 3.1 is dated Aug. 92 in garbo.uwasa.fi i"
+      },
+      {
+        "score": 1.0824411,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) see"
+      },
+      {
+        "score": 1.0862676,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of"
+      }
+    ],
+    "documents_dot": [
+      {
+        "score": 0.4897431,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi.  I am having some interesting problems with my Boca graphics card, which \nis based on the Cirrus Logic chipset (I am"
+      },
+      {
+        "score": 0.42262632,
+        "category": "comp.os.ms-windows.misc",
+        "text": "HHHHEEEELLLLPPPP Meeeeeee!\n\n\tI installed a 256 color svga driver for my windows last week.   \nThis driver was downloaded"
+      },
+      {
+        "score": 0.41888657,
+        "category": "comp.os.ms-windows.misc",
+        "text": "I have the same card, TVGA-8900c. When I checked, the latest driver for\nwindows 3.1 is dated Aug. 92 in garbo.uwasa.fi i"
+      },
+      {
+        "score": 0.4141606,
+        "category": "comp.os.ms-windows.misc",
+        "text": "Hi, anyone have the latest drivers for the Actix Graphics Accelerator Card? \n(32 plus) The one I have (version 1.21) see"
+      },
+      {
+        "score": 0.41001144,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I would appreciate the driver name from CICA which functions as a 256\ncolor driver for a Quadtel video card. The type of"
+      }
+    ]
+  },
+  "Why won't my computer boot after installing new hardware?": {
+    "documents_cosine": [
+      {
+        "score": 0.43380278,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "Hey folks.\n\nIs it possible to short out your CMOS chip?  I think mine is fried.\nThese are the symptoms...\n\nI have to do "
+      },
+      {
+        "score": 0.43239433,
+        "category": "comp.os.ms-windows.misc",
+        "text": "I have the same problem. Someone suggested it might be a BIOS bug.\nGonna check with my supplier tomorrow. I'll tell you "
+      },
+      {
+        "score": 0.43129975,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "You are correct!  The motherboard manufacturer where I usually buy boards says\nthat they will have this problem fixed in"
+      },
+      {
+        "score": 0.4183048,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I think it all depends on your motherboard and the cards you have in your system.  Your HD stopped boot probably because"
+      },
+      {
+        "score": 0.38688153,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I have a 386/40 motherboard with AMI BIOS.\nI haven't located the little motherboard manual yet,\nand suddenly it's giving"
+      }
+    ],
+    "documents_euclid": [
+      {
+        "score": 1.0641403,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "Hey folks.\n\nIs it possible to short out your CMOS chip?  I think mine is fried.\nThese are the symptoms...\n\nI have to do "
+      },
+      {
+        "score": 1.065463,
+        "category": "comp.os.ms-windows.misc",
+        "text": "I have the same problem. Someone suggested it might be a BIOS bug.\nGonna check with my supplier tomorrow. I'll tell you "
+      },
+      {
+        "score": 1.0664898,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "You are correct!  The motherboard manufacturer where I usually buy boards says\nthat they will have this problem fixed in"
+      },
+      {
+        "score": 1.0786058,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I think it all depends on your motherboard and the cards you have in your system.  Your HD stopped boot probably because"
+      },
+      {
+        "score": 1.1073558,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I have a 386/40 motherboard with AMI BIOS.\nI haven't located the little motherboard manual yet,\nand suddenly it's giving"
+      }
+    ],
+    "documents_dot": [
+      {
+        "score": 0.43380278,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "Hey folks.\n\nIs it possible to short out your CMOS chip?  I think mine is fried.\nThese are the symptoms...\n\nI have to do "
+      },
+      {
+        "score": 0.43239433,
+        "category": "comp.os.ms-windows.misc",
+        "text": "I have the same problem. Someone suggested it might be a BIOS bug.\nGonna check with my supplier tomorrow. I'll tell you "
+      },
+      {
+        "score": 0.43129975,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "You are correct!  The motherboard manufacturer where I usually buy boards says\nthat they will have this problem fixed in"
+      },
+      {
+        "score": 0.4183048,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I think it all depends on your motherboard and the cards you have in your system.  Your HD stopped boot probably because"
+      },
+      {
+        "score": 0.38688153,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I have a 386/40 motherboard with AMI BIOS.\nI haven't located the little motherboard manual yet,\nand suddenly it's giving"
+      }
+    ]
+  },
+  "Which baseball team had the best pitching season?": {
+    "documents_cosine": [
+      {
+        "score": 0.59329724,
+        "category": "rec.sport.baseball",
+        "text": ": I think most of the problems mainly arose from Manager Gene Mauch's\n: ineptitude in managing the pitching staff.  Down"
+      },
+      {
+        "score": 0.5882964,
+        "category": "rec.sport.baseball",
+        "text": "Of all teams, I believe the Cubs have the best record ever in baseball.\nSometime way far back. 110+ and something."
+      },
+      {
+        "score": 0.58820724,
+        "category": "rec.sport.baseball",
+        "text": "I thought I'd post my predicted standings since I find those posted by others\nto be interesting.  Sorry this is after Op"
+      },
+      {
+        "score": 0.53985417,
+        "category": "rec.sport.baseball",
+        "text": "I tend to agree that players are not hurt by early play in the big leagues.\nThe BRaves organization is a fertile ground "
+      },
+      {
+        "score": 0.52005243,
+        "category": "rec.sport.baseball",
+        "text": "Once again, the Rockies bullpen fell apart.  Andy Ashby pitched six (somewhat\nshaky) innings giving up just one run.  Th"
+      }
+    ],
+    "documents_euclid": [
+      {
+        "score": 0.9018899,
+        "category": "rec.sport.baseball",
+        "text": ": I think most of the problems mainly arose from Manager Gene Mauch's\n: ineptitude in managing the pitching staff.  Down"
+      },
+      {
+        "score": 0.9074179,
+        "category": "rec.sport.baseball",
+        "text": "Of all teams, I believe the Cubs have the best record ever in baseball.\nSometime way far back. 110+ and something."
+      },
+      {
+        "score": 0.90751606,
+        "category": "rec.sport.baseball",
+        "text": "I thought I'd post my predicted standings since I find those posted by others\nto be interesting.  Sorry this is after Op"
+      },
+      {
+        "score": 0.9593183,
+        "category": "rec.sport.baseball",
+        "text": "I tend to agree that players are not hurt by early play in the big leagues.\nThe BRaves organization is a fertile ground "
+      },
+      {
+        "score": 0.97974235,
+        "category": "rec.sport.baseball",
+        "text": "Once again, the Rockies bullpen fell apart.  Andy Ashby pitched six (somewhat\nshaky) innings giving up just one run.  Th"
+      }
+    ],
+    "documents_dot": [
+      {
+        "score": 0.59329724,
+        "category": "rec.sport.baseball",
+        "text": ": I think most of the problems mainly arose from Manager Gene Mauch's\n: ineptitude in managing the pitching staff.  Down"
+      },
+      {
+        "score": 0.5882964,
+        "category": "rec.sport.baseball",
+        "text": "Of all teams, I believe the Cubs have the best record ever in baseball.\nSometime way far back. 110+ and something."
+      },
+      {
+        "score": 0.58820724,
+        "category": "rec.sport.baseball",
+        "text": "I thought I'd post my predicted standings since I find those posted by others\nto be interesting.  Sorry this is after Op"
+      },
+      {
+        "score": 0.53985417,
+        "category": "rec.sport.baseball",
+        "text": "I tend to agree that players are not hurt by early play in the big leagues.\nThe BRaves organization is a fertile ground "
+      },
+      {
+        "score": 0.52005243,
+        "category": "rec.sport.baseball",
+        "text": "Once again, the Rockies bullpen fell apart.  Andy Ashby pitched six (somewhat\nshaky) innings giving up just one run.  Th"
+      }
+    ]
+  },
+  "What causes a space shuttle launch delay?": {
+    "documents_cosine": [
+      {
+        "score": 0.51842004,
+        "category": "sci.space",
+        "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVE"
+      },
+      {
+        "score": 0.42346108,
+        "category": "sci.space",
+        "text": "Hello everyone,\n\n\tI was hoping someone could help me out.  I'm writing a program\n\tfor my astronautics class for assent o"
+      },
+      {
+        "score": 0.40501988,
+        "category": "sci.space",
+        "text": "My understanding is that the 'expected errors' are basically\n   known bugs in the warning system software - things are c"
+      },
+      {
+        "score": 0.3704012,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I've started to notice the same thing myself. I'm running DOS 5 and Win 3.1 so\nI can fix it from the Windows Control Pan"
+      },
+      {
+        "score": 0.3615994,
+        "category": "sci.space",
+        "text": "It doesn't make a whole lot of difference, actually, since they weren't\nbuilding spares of the station hardware anyway. "
+      }
+    ],
+    "documents_euclid": [
+      {
+        "score": 0.9814071,
+        "category": "sci.space",
+        "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVE"
+      },
+      {
+        "score": 1.0738146,
+        "category": "sci.space",
+        "text": "Hello everyone,\n\n\tI was hoping someone could help me out.  I'm writing a program\n\tfor my astronautics class for assent o"
+      },
+      {
+        "score": 1.090853,
+        "category": "sci.space",
+        "text": "My understanding is that the 'expected errors' are basically\n   known bugs in the warning system software - things are c"
+      },
+      {
+        "score": 1.1221398,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I've started to notice the same thing myself. I'm running DOS 5 and Win 3.1 so\nI can fix it from the Windows Control Pan"
+      },
+      {
+        "score": 1.1299562,
+        "category": "sci.space",
+        "text": "It doesn't make a whole lot of difference, actually, since they weren't\nbuilding spares of the station hardware anyway. "
+      }
+    ],
+    "documents_dot": [
+      {
+        "score": 0.51842004,
+        "category": "sci.space",
+        "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNCH SCHEDULES, TV COVE"
+      },
+      {
+        "score": 0.42346108,
+        "category": "sci.space",
+        "text": "Hello everyone,\n\n\tI was hoping someone could help me out.  I'm writing a program\n\tfor my astronautics class for assent o"
+      },
+      {
+        "score": 0.40501988,
+        "category": "sci.space",
+        "text": "My understanding is that the 'expected errors' are basically\n   known bugs in the warning system software - things are c"
+      },
+      {
+        "score": 0.3704012,
+        "category": "comp.sys.ibm.pc.hardware",
+        "text": "I've started to notice the same thing myself. I'm running DOS 5 and Win 3.1 so\nI can fix it from the Windows Control Pan"
+      },
+      {
+        "score": 0.3615994,
+        "category": "sci.space",
+        "text": "It doesn't make a whole lot of difference, actually, since they weren't\nbuilding spares of the station hardware anyway. "
+      }
+    ]
+  },
+  "How can I improve motorcycle engine performance?": {
+    "documents_cosine": [
+      {
+        "score": 0.47485113,
+        "category": "rec.motorcycles",
+        "text": ": I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n: had the carbs re-jetted to match a set of K&N f"
+      },
+      {
+        "score": 0.44122395,
+        "category": "rec.autos",
+        "text": "Hello,\n\tI am looking to slightly increase the performance of my 89 Honda\nCivic Si.  I was wondering if anyone could sugg"
+      },
+      {
+        "score": 0.4182077,
+        "category": "rec.motorcycles",
+        "text": ">   I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n >   had the carbs re-jetted to match a set of "
+      },
+      {
+        "score": 0.41590738,
+        "category": "rec.motorcycles",
+        "text": "/ hpcc01:rec.motorcycles / Stafford@Vax2.Winona.MSUS.Edu (John Stafford) / 11:06 am  Apr  1, 1993 /\n \n\n  It depreciates "
+      },
+      {
+        "score": 0.41309914,
+        "category": "rec.motorcycles",
+        "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn "
+      }
+    ],
+    "documents_euclid": [
+      {
+        "score": 1.0248404,
+        "category": "rec.motorcycles",
+        "text": ": I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n: had the carbs re-jetted to match a set of K&N f"
+      },
+      {
+        "score": 1.0571433,
+        "category": "rec.autos",
+        "text": "Hello,\n\tI am looking to slightly increase the performance of my 89 Honda\nCivic Si.  I was wondering if anyone could sugg"
+      },
+      {
+        "score": 1.0786957,
+        "category": "rec.motorcycles",
+        "text": ">   I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n >   had the carbs re-jetted to match a set of "
+      },
+      {
+        "score": 1.0808262,
+        "category": "rec.motorcycles",
+        "text": "/ hpcc01:rec.motorcycles / Stafford@Vax2.Winona.MSUS.Edu (John Stafford) / 11:06 am  Apr  1, 1993 /\n \n\n  It depreciates "
+      },
+      {
+        "score": 1.0834212,
+        "category": "rec.motorcycles",
+        "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn "
+      }
+    ],
+    "documents_dot": [
+      {
+        "score": 0.47485113,
+        "category": "rec.motorcycles",
+        "text": ": I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n: had the carbs re-jetted to match a set of K&N f"
+      },
+      {
+        "score": 0.44122395,
+        "category": "rec.autos",
+        "text": "Hello,\n\tI am looking to slightly increase the performance of my 89 Honda\nCivic Si.  I was wondering if anyone could sugg"
+      },
+      {
+        "score": 0.4182077,
+        "category": "rec.motorcycles",
+        "text": ">   I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n >   had the carbs re-jetted to match a set of "
+      },
+      {
+        "score": 0.41590738,
+        "category": "rec.motorcycles",
+        "text": "/ hpcc01:rec.motorcycles / Stafford@Vax2.Winona.MSUS.Edu (John Stafford) / 11:06 am  Apr  1, 1993 /\n \n\n  It depreciates "
+      },
+      {
+        "score": 0.41309914,
+        "category": "rec.motorcycles",
+        "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about you. How do you learn "
+      }
+    ]
+  }
+}
