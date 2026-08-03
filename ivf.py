@@ -21,7 +21,7 @@ model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 # -----------------------------
 k_clusters = 32
 
-kmeans = KMeans(n_clusters=k_clusters, random_state=42)
+kmeans = KMeans(n_clusters=k_clusters)
 labels = kmeans.fit_predict(vectors)
 
 centroids = kmeans.cluster_centers_

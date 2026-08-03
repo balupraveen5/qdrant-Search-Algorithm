@@ -59,11 +59,11 @@ for name, distance in collections.items():
 
     points = []
 
-    for vector, doc in zip(vectors, metadata):
+    for idx, (vector, doc) in enumerate(zip(vectors, metadata)):
 
         points.append(
             PointStruct(
-                id=str(uuid.uuid4()),
+                id=idx,
                 vector=vector.tolist(),
                 payload={
                     "text": doc["text"],

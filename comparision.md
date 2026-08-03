@@ -15,16 +15,12 @@ Dot product produced identical rankings and nearly identical scores to cosine si
 
 # HNSW vs Exact Search Comparison
 
-| Query | Exact Latency (ms) | Default HNSW Latency (ms) | Top-5 Overlap | Poor HNSW (ef=16) Overlap | Poor HNSW (ef=64) Overlap | Poor HNSW (ef=128) Overlap |
-|-------|-------------------:|--------------------------:|--------------:|--------------------------:|--------------------------:|---------------------------:|
-| How do I fix a graphics card driver issue? | 14.60 | 3.48 | 5/5 | 0/5 | 0/5 | 0/5 |
-| Why won't my computer boot after installing new hardware? | 3.28 | 2.72 | 5/5 | 0/5 | 0/5 | 0/5 |
-| Which baseball team had the best pitching season? | 4.25 | 3.04 | 5/5 | 0/5 | 0/5 | 0/5 |
-| What causes a space shuttle launch delay? | 5.34 | 3.26 | 5/5 | 0/5 | 0/5 | 0/5 |
-| How can I improve motorcycle engine performance? | 4.58 | 2.39 | 5/5 | 0/5 | 0/5 | 0/5 |
-
-## Summary
-
-- **Exact search** always returns the ground-truth nearest neighbors but has higher latency (3.28–14.60 ms).
-- **Default HNSW** is significantly faster (2.39–3.48 ms) while achieving **100% Top-5 overlap (5/5)** with exact search for all test queries.
-- **Poorly configured HNSW** (low-quality index with varying `ef`) is slightly faster but fails to retrieve any of the exact Top-5 neighbors (**0/5 overlap**), demonstrating the trade-off between search quality and index configuration.
+| Method | Search Parameter | Avg. Top-5 Overlap (out of 5) | Avg. Latency (ms) |
+|--------|------------------|------------------------------:|------------------:|
+| Exact (Brute Force) | — | 5.0 (Ground Truth) | 2.857 |
+| Default HNSW | Default | 5.0 | 2.162 |
+| Poor HNSW | ef = 16 | 5.0 | 2.073 |
+| Poor HNSW | ef = 64 | 5.0 | 1.937 |
+| Poor HNSW | ef = 128 | 5.0 | 1.946 |
+| IVF | nprobe = 1 | 4.0 | 16.456 |
+| IVF | nprobe = 8 | 5.0 | 133.614 |

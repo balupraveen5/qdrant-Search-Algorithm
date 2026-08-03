@@ -1,142 +1,142 @@
 {
   "How do I fix a graphics card driver issue?": {
     "exact": {
-      "latency_ms": 14.599999998608837,
+      "latency_ms": 4.191375000118569,
       "ids": [
-        "6f62a6ca-1b38-4507-bcb8-adf9436fb0d3",
-        "98373406-5dfc-4e98-a9c6-3e2e45212544",
-        "79af5afd-e042-42ec-955b-004d5836c8e3",
-        "b3e5bb55-ca72-4181-a69e-1b4a68145af7",
-        "315d848a-5626-4e45-b134-8048b4bf166a"
+        2423,
+        3249,
+        1229,
+        502,
+        662
       ]
     },
     "default_hnsw": {
-      "latency_ms": 3.4775839994836133,
+      "latency_ms": 2.3702499993305537,
       "overlap": 5
     },
     "poor_hnsw_ef_16": {
-      "latency_ms": 3.2475410007464234,
-      "overlap": 0
+      "latency_ms": 2.260541999930865,
+      "overlap": 5
     },
     "poor_hnsw_ef_64": {
-      "latency_ms": 2.4038330011535436,
-      "overlap": 0
+      "latency_ms": 1.9749589991988614,
+      "overlap": 5
     },
     "poor_hnsw_ef_128": {
-      "latency_ms": 2.7345000016794074,
-      "overlap": 0
+      "latency_ms": 2.0492499997999403,
+      "overlap": 5
     }
   },
   "Why won't my computer boot after installing new hardware?": {
     "exact": {
-      "latency_ms": 3.28054199781036,
+      "latency_ms": 2.78033399990818,
       "ids": [
-        "b2850443-6b60-428d-848d-639b60272fc0",
-        "fb1d57fd-d088-41c4-9d5a-df59e83f619e",
-        "3300907b-59eb-4b31-8c2c-b5d7c04bbfd9",
-        "b60095d5-b11d-4652-8efc-7f27686da249",
-        "d49e08ef-13b7-4635-a70a-9ae85585105f"
+        3720,
+        3306,
+        1968,
+        1590,
+        2249
       ]
     },
     "default_hnsw": {
-      "latency_ms": 2.717250001296634,
+      "latency_ms": 2.1825839994562557,
       "overlap": 5
     },
     "poor_hnsw_ef_16": {
-      "latency_ms": 2.7042920009989757,
-      "overlap": 0
+      "latency_ms": 2.0377500004542526,
+      "overlap": 5
     },
     "poor_hnsw_ef_64": {
-      "latency_ms": 2.518749999580905,
-      "overlap": 0
+      "latency_ms": 1.8840000002455781,
+      "overlap": 5
     },
     "poor_hnsw_ef_128": {
-      "latency_ms": 2.4389590034843422,
-      "overlap": 0
+      "latency_ms": 1.878832999864244,
+      "overlap": 5
     }
   },
   "Which baseball team had the best pitching season?": {
     "exact": {
-      "latency_ms": 4.246458000125131,
+      "latency_ms": 2.5286250001954613,
       "ids": [
-        "7ba99dfa-0812-4f23-807a-85bb8fde87cd",
-        "7ea8518b-9cd4-49d5-93ed-d23a506357cc",
-        "d8af9cbd-7a32-46c2-8ecf-27258f0eff97",
-        "f6ca60e2-1633-4855-a61b-fb4a3d6f583d",
-        "87733d0c-bc99-464f-a120-38d39ff352c5"
+        1697,
+        4279,
+        3793,
+        4130,
+        650
       ]
     },
     "default_hnsw": {
-      "latency_ms": 3.036624999367632,
+      "latency_ms": 2.1012090001022443,
       "overlap": 5
     },
     "poor_hnsw_ef_16": {
-      "latency_ms": 2.525792002415983,
-      "overlap": 0
+      "latency_ms": 2.073292000204674,
+      "overlap": 5
     },
     "poor_hnsw_ef_64": {
-      "latency_ms": 2.6442500020493753,
-      "overlap": 0
+      "latency_ms": 1.976499999727821,
+      "overlap": 5
     },
     "poor_hnsw_ef_128": {
-      "latency_ms": 2.5660829996922985,
-      "overlap": 0
+      "latency_ms": 1.9875420002790634,
+      "overlap": 5
     }
   },
   "What causes a space shuttle launch delay?": {
     "exact": {
-      "latency_ms": 5.337750000762753,
+      "latency_ms": 2.5739169996086275,
       "ids": [
-        "2962cb60-c229-4049-ba4e-076605d2d850",
-        "30a19c0a-3bae-49ec-93c4-63885fb3b94f",
-        "c7399fa0-1724-44ef-874d-8b3123c487f7",
-        "6a5a1f58-cd35-4a9c-a349-3717778d2529",
-        "b2da134f-7b18-47f8-8aa6-7c4969850041"
+        153,
+        2956,
+        3371,
+        2018,
+        4846
       ]
     },
     "default_hnsw": {
-      "latency_ms": 3.2579159997112583,
+      "latency_ms": 2.135707999514125,
       "overlap": 5
     },
     "poor_hnsw_ef_16": {
-      "latency_ms": 2.4119590016198345,
-      "overlap": 0
+      "latency_ms": 1.9554170003175386,
+      "overlap": 5
     },
     "poor_hnsw_ef_64": {
-      "latency_ms": 2.3454579968529288,
-      "overlap": 0
+      "latency_ms": 1.8578330000309506,
+      "overlap": 5
     },
     "poor_hnsw_ef_128": {
-      "latency_ms": 2.43870899794274,
-      "overlap": 0
+      "latency_ms": 1.9122080002489383,
+      "overlap": 5
     }
   },
   "How can I improve motorcycle engine performance?": {
     "exact": {
-      "latency_ms": 4.579249998641899,
+      "latency_ms": 2.20900000022084,
       "ids": [
-        "2fd350a7-ba7b-4ea3-8a00-a89caf928f7d",
-        "dcce3c46-3e0e-4cdb-bae5-7e7567155521",
-        "b0f5c300-5d9a-434a-9129-8977af01f5fb",
-        "2b400226-d5e3-4938-a7cb-ec4de50f1b4e",
-        "0c463e27-1efc-4451-8b3f-f5fc1cb7a123"
+        4324,
+        1549,
+        4070,
+        102,
+        3107
       ]
     },
     "default_hnsw": {
-      "latency_ms": 2.3899160005385056,
+      "latency_ms": 2.021375000367698,
       "overlap": 5
     },
     "poor_hnsw_ef_16": {
-      "latency_ms": 2.4300000004586764,
-      "overlap": 0
+      "latency_ms": 2.036208999925293,
+      "overlap": 5
     },
     "poor_hnsw_ef_64": {
-      "latency_ms": 2.5085410015890375,
-      "overlap": 0
+      "latency_ms": 1.9916670007660287,
+      "overlap": 5
     },
     "poor_hnsw_ef_128": {
-      "latency_ms": 2.4878749973140657,
-      "overlap": 0
+      "latency_ms": 1.9027500002266606,
+      "overlap": 5
     }
   }
 }

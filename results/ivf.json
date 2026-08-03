@@ -1,7 +1,7 @@
 {
   "How do I fix a graphics card driver issue?": {
     "nprobe_1": {
-      "latency_ms": 16.03,
+      "latency_ms": 16.5,
       "results": [
         {
           "id": 2423,
@@ -36,7 +36,7 @@
       ]
     },
     "nprobe_8": {
-      "latency_ms": 144.74,
+      "latency_ms": 130.54,
       "results": [
         {
           "id": 2423,
@@ -73,7 +73,7 @@
   },
   "Why won't my computer boot after installing new hardware?": {
     "nprobe_1": {
-      "latency_ms": 15.77,
+      "latency_ms": 15.46,
       "results": [
         {
           "id": 3720,
@@ -108,7 +108,7 @@
       ]
     },
     "nprobe_8": {
-      "latency_ms": 145.0,
+      "latency_ms": 145.39,
       "results": [
         {
           "id": 3720,
@@ -145,7 +145,7 @@
   },
   "Which baseball team had the best pitching season?": {
     "nprobe_1": {
-      "latency_ms": 11.04,
+      "latency_ms": 6.97,
       "results": [
         {
           "id": 1697,
@@ -180,7 +180,7 @@
       ]
     },
     "nprobe_8": {
-      "latency_ms": 130.15,
+      "latency_ms": 107.37,
       "results": [
         {
           "id": 1697,
@@ -217,42 +217,42 @@
   },
   "What causes a space shuttle launch delay?": {
     "nprobe_1": {
-      "latency_ms": 15.9,
+      "latency_ms": 17.85,
       "results": [
         {
-          "id": 3371,
-          "score": 0.4050198495388031,
+          "id": 153,
+          "score": 0.5184200406074524,
           "category": "sci.space",
-          "text": "My understanding is that the 'expected errors' are basically\n   known bugs in the warning system sof"
+          "text": "Archive-name: space/schedule\nLast-modified: $Date: 93/04/01 14:39:23 $\n\nSPACE SHUTTLE ANSWERS, LAUNC"
         },
         {
-          "id": 2018,
-          "score": 0.37040117383003235,
-          "category": "comp.sys.ibm.pc.hardware",
-          "text": "I've started to notice the same thing myself. I'm running DOS 5 and Win 3.1 so\nI can fix it from the"
-        },
-        {
-          "id": 720,
-          "score": 0.31288599967956543,
-          "category": "comp.sys.mac.hardware",
-          "text": "I've changed the battery in the thing (shortly after the problem first\nhappened) and I've noticed an"
-        },
-        {
-          "id": 3128,
-          "score": 0.30967020988464355,
-          "category": "comp.windows.x",
-          "text": "Help: I am running some sample problems from O'Reilly volume 4,\nXt Intrisics Programming Manual, cha"
-        },
-        {
-          "id": 4,
-          "score": 0.2885103225708008,
+          "id": 2956,
+          "score": 0.42346107959747314,
           "category": "sci.space",
-          "text": "From article <C5owCB.n3p@world.std.com>, by tombaker@world.std.com (Tom A Baker):\n\n\nMy understanding"
+          "text": "Hello everyone,\n\n\tI was hoping someone could help me out.  I'm writing a program\n\tfor my astronautic"
+        },
+        {
+          "id": 4846,
+          "score": 0.3615993857383728,
+          "category": "sci.space",
+          "text": "It doesn't make a whole lot of difference, actually, since they weren't\nbuilding spares of the stati"
+        },
+        {
+          "id": 275,
+          "score": 0.3425295948982239,
+          "category": "sci.space",
+          "text": "DFW was designed with the STS in mind (which really mean very little).  Much of\ntheir early PR mater"
+        },
+        {
+          "id": 2695,
+          "score": 0.3353704810142517,
+          "category": "sci.space",
+          "text": "WHile we are on the subject of the shuttle software.\n\nwhat ever happened to the hypothesis  that the"
         }
       ]
     },
     "nprobe_8": {
-      "latency_ms": 122.44,
+      "latency_ms": 125.79,
       "results": [
         {
           "id": 153,
@@ -289,42 +289,42 @@
   },
   "How can I improve motorcycle engine performance?": {
     "nprobe_1": {
-      "latency_ms": 23.54,
+      "latency_ms": 10.63,
       "results": [
         {
-          "id": 4324,
-          "score": 0.47485125064849854,
+          "id": 3107,
+          "score": 0.41309916973114014,
           "category": "rec.motorcycles",
-          "text": ": I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n: had the carbs re-jetted to "
+          "text": "Greg,\n\nI'm very new to motorcycles. Haven't even bought one yet. I was in the same\nposition about yo"
         },
         {
-          "id": 1549,
-          "score": 0.44122397899627686,
-          "category": "rec.autos",
-          "text": "Hello,\n\tI am looking to slightly increase the performance of my 89 Honda\nCivic Si.  I was wondering "
+          "id": 2724,
+          "score": 0.3519025444984436,
+          "category": "rec.motorcycles",
+          "text": "From _Cycle_World_ magazine (5/93) (who usually never says _anything_\nbad about any motorcycle):\n\n\"T"
         },
         {
-          "id": 4070,
-          "score": 0.4182078242301941,
+          "id": 2155,
+          "score": 0.33917540311813354,
           "category": "rec.motorcycles",
-          "text": ">   I need help with my '85 ZX900A, I put Supertrapp slip-on's on it and\n >   had the carbs re-jette"
+          "text": "I learned when riding bareback as a kid to \"palm-reign\", by just \npushing on the right side of the h"
         },
         {
-          "id": 102,
-          "score": 0.41590744256973267,
+          "id": 5531,
+          "score": 0.3227037787437439,
           "category": "rec.motorcycles",
-          "text": "/ hpcc01:rec.motorcycles / Stafford@Vax2.Winona.MSUS.Edu (John Stafford) / 11:06 am  Apr  1, 1993 /\n"
+          "text": "Obviously never rode a good 250 or open-class bike!"
         },
         {
-          "id": 2844,
-          "score": 0.38991233706474304,
+          "id": 3794,
+          "score": 0.3160306215286255,
           "category": "rec.motorcycles",
-          "text": "I tried mailing you but your domain seems not to exist, can't even get \nsinet.slb.com to admit to kn"
+          "text": "I am happy to say that some Harley riders in our area are better than most\nthat are flamed about her"
         }
       ]
     },
     "nprobe_8": {
-      "latency_ms": 125.74,
+      "latency_ms": 112.83,
       "results": [
         {
           "id": 4324,
